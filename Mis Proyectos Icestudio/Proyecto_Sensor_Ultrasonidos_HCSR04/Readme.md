@@ -18,7 +18,11 @@ Robot_detector_de_Obstaculos_con_sensor_ultrasonidos : https://youtu.be/NPYH_u8R
 
 
 
-## Enlace a ghithub MakerVentura : 
+## Enlace para descarga de la documentación: 
 
-https://github.com/makerventura/Mundo_FPGA_libre
+https://github.com/makerventura/FPGA-Ultrasonidos-Sensor-HCSR04.git
+
+
+
+
 
